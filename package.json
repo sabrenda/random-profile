@@ -1,0 +1,15 @@
+{
+  "name": "p1-random-profile-generator",
+  "version": "1.0.0",
+  "description": "Нужно написать маленькое приложение, которое будет создавать текстовые файлы с каким-то количеством случайно  сгенерированных имён.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-profile-generator": "^2.3.0"
+  }
+}
